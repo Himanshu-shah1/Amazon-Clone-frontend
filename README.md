@@ -1,6 +1,7 @@
 # Amazon-Clone-01
 A frontend clone of E-commerce website of Amazon. This is created using HTML,CSS and  Javascript. The page is created for big screens i.e, laptops, PCs only.
-by:- Himanshu Shah 
+
+Project Done By:- Himanshu Shah 
 
 The Amazon Clone project is a front-end e-commerce web application developed using HTML, CSS, and JavaScript. The main objective of this project is to recreate the design and basic functionality of the Amazon website while improving web development skills and understanding user interface design. This project includes various sections such as a responsive navigation bar, search bar, product categories, product listings, shopping cart interface, and footer section, similar to the original Amazon platform.
 
